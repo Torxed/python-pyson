@@ -3,7 +3,8 @@ import random
 
 import pyson
 
-content = """{
+content = """
+{
 	"time" : time.time(),
 	random.randint(0, 1) : "a random number",
 	"another_level" : {
