@@ -1,7 +1,8 @@
 # python-pyson
 
 Like JSON, byt for Python.<br>
-Supports any `ast.literal_eval` in `key` and `value` pairs.
+Supports any `eval()` in `key` and `value` pairs.<br>
+*(So don't go around using it in production)*
 
 # Example
 
