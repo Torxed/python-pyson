@@ -1,6 +1,6 @@
 # python-pyson
 
-Like JSON, byt for Python.<br>
+Like JSON, but for Python.<br>
 Supports any `eval()` in `key` and `value` pairs.<br>
 *(So don't go around using it in production)*
 
